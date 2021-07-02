@@ -8,6 +8,8 @@ using Microsoft.Extensions.Hosting;
 
 namespace cookbook
 {
+    // Kübra
+    // Burası bizim startup dosyamız.
     public class Startup
     {
         public Startup(IConfiguration configuration)
